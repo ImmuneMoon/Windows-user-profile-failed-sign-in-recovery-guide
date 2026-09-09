@@ -19,3 +19,13 @@ The main document (`Windows-Profile-Recovery-Guide.md`) is divided into three di
 
 ## 🚀 How to Use
 Simply open the `Windows-Profile-Recovery-Guide.md` file in any Markdown viewer, text editor, or code editor (such as VS Code, Notepad++, or Obsidian) and follow the instructions sequentially from Phase 1 to Phase 3.
+
+## ☕ Support the Project
+
+If you find this extension helpful and want to support further development by Fulllion Creative Works, consider leaving a tip!
+
+* [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=LCDZX75HR4CLC)
+* [Support on Ko-fi](https://ko-fi.com/fulllion)
+
+---
+© 2026 Fulllion Creative Works. All rights reserved.
