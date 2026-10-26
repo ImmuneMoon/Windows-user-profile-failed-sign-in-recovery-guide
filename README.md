@@ -1,5 +1,11 @@
 # README: Universal Windows Profile & App Recovery Guide
 
+![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
+![Fixes temporary profiles and failed sign-ins](https://img.shields.io/badge/Fixes-temporary%20profile%20%7C%20failed%20sign--in-6f42c1)
+![Tools: Registry Editor, SFC](https://img.shields.io/badge/Tools-Registry%20Editor%20%7C%20SFC-5c2d91)
+[![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Windows-user-profile-failed-sign-in-recovery-guide?label=updated)](https://github.com/ImmuneMoon/Windows-user-profile-failed-sign-in-recovery-guide/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
+
 ## 📖 Overview
 The **Universal Windows Profile & App Recovery Guide** is a step-by-step troubleshooting manual designed to help users resolve the common Windows issue where a user profile becomes corrupted (often due to sudden power loss or system crashes), causing Windows to boot into a looping "Temporary Profile." 
 
